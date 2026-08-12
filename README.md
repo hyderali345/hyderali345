@@ -142,7 +142,7 @@
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hyderali345&theme=radical&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=false" alt="Mir Hyder Ali's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hyderali345&theme=radical&column=6&margin-w=15&margin-h=15" alt="Mir Hyder Ali's GitHub Trophies" />
   </a>
 </div>
 
@@ -153,11 +153,11 @@
   <h2>📊 GitHub Stats & Analytics</h2>
   <br/>
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyderali345&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyderali345&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyderali345&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyderali345&layout=compact&theme=radical" alt="Top Languages" />
   </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyderali345&theme=radical&hide_border=true" alt="GitHub Commit Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyderali345&theme=radical" alt="GitHub Commit Streak" />
   </p>
 </div>
 
@@ -166,12 +166,12 @@
 <!-- CONTRIBUTION SNAKE GRAPH -->
 <div align="center">
   <h2>🐍 Contribution Snake Graph</h2>
-  <p><i>The snake eats my GitHub contributions grid daily!</i></p>
+  <p><i>The animated snake moves across GitHub contributions grid!</i></p>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyderali345/hyderali345/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyderali345/hyderali345/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hyderali345/hyderali345/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hyderali345/hyderali345/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
