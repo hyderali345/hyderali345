@@ -116,26 +116,6 @@ Status: "Open for Frontend Opportunities & Freelance Collaborations"
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-
-  <!-- Responsive GitHub Stats Cards -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hyderali345&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" style="max-width:440px;" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyderali345&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" style="max-width:440px;" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyderali345&theme=radical&hide_border=true" alt="GitHub Commit Streak" width="100%" style="max-width:440px;" />
-  </p>
-
-</div>
-
----
 
 ### 🐍 GitHub Contribution Snake Animation
 
