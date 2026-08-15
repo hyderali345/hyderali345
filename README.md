@@ -17,7 +17,7 @@
 
   <!-- RESPONSIVE TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=45&lines=Hi+there!+%F0%9F%90%8B+I'm+Mir+Hyder+Ali;Frontend+Developer+%26+UI+Specialist;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+Responsive+%26+Interactive+Web+Apps;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Typing Banner" width="100%" style="max-width:500px;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=45&lines=Hi+there!+%F0%9F%90%8B+I'm+Mir+Hyder+Ali;Frontend+Developer+%26+UI+Specialist;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+Responsive+%26+Interactive+Web+Apps;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Typing Banner" width="100%" style="max-width:500px;" />
   </a>
 
   <br/><br/>
